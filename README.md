@@ -56,7 +56,7 @@ To render a preview of the local project in the Visual Editor, follow these step
 
 Run the development server with HTTPS enabled:
 ```sh
-npx @11ty/eleventy --serve
+npm run dev
 ```
 
 > [!IMPORTANT]

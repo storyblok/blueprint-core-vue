@@ -2,7 +2,7 @@
 
 Integrate [Vue](https://vuejs.org/) with [Storyblok](http://www.storyblok.com) as a headless CMS.
 
-This blueprint is ideal for kickstarting new Storyblok and React projects. What's inside:
+This blueprint is ideal for kickstarting new Storyblok and Vue projects. What's inside:
 
 - Pre-configured default blocks: `page`, `teaser`, `grid`, and `feature`.
 - Support for the Visual Editor's live preview.

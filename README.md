@@ -48,7 +48,7 @@ STORYBLOK_DELIVERY_API_TOKEN=<REPLACE_WITH_YOUR_TOKEN>
 To render a preview of the local project in the Visual Editor, follow these steps:
 
 1. Navigate to **Settings > Visual Editor**.
-2. Set the default environment to `https://localhost:8080/`.
+2. Set the default environment to `https://localhost:5173/`.
 3. Save.
 4. Open the `home` story.
 5. Click **Config**.

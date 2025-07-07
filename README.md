@@ -1,4 +1,4 @@
-# Storyblok Starter Space Blueprint: Vue
+# Storyblok Core Space Blueprint: Vue
 
 Integrate [Vue](https://vuejs.org/) with [Storyblok](http://www.storyblok.com) as a headless CMS.
 

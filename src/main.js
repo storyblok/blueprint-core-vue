@@ -9,8 +9,7 @@ import Feature from './components/Feature.vue';
 import PageView from './PageView.vue';
 
 const routes = [
-	{ path: '/', component: PageView },
-	{ path: '/:slug', component: PageView },
+  { path: '/:slug*', component: PageView },
 ];
 
 const router = createRouter({

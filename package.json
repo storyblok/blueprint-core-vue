@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@storyblok/vue": "^8.2.2",
-    "vue": "^3.5.13",
+    "vue": "^3.5.34",
     "vue-router": "^4.5.0"
   },
   "devDependencies": {

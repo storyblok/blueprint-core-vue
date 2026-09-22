@@ -1,5 +1,5 @@
 {
-  "name": "vue-tech-guide",
+  "name": "blueprint-core-vue",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -9,14 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@storyblok/vue": "^8.2.2",
-    "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
+    "@storyblok/vue": "^11.3.1",
+    "vue": "^3.5.43",
+    "vue-router": "^4.6.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.2.3",
-    "vite": "^6.2.4",
-    "vite-plugin-mkcert": "^1.17.8",
-    "vite-plugin-vue-devtools": "^7.7.2"
+    "@vitejs/plugin-vue": "^6.0.9",
+    "vite": "^8.3.0",
+    "vite-plugin-mkcert": "^2.1.0",
+    "vite-plugin-vue-devtools": "^8.2.1"
   }
 }
